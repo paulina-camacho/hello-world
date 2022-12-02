@@ -1,4 +1,4 @@
 # hello-world
 This is our first repository!
 
-<p> I'm Paulina and I like sushi :). <p>
+<p> I'm Paulina Camacho and I like sushi :). <p>
